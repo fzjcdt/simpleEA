@@ -1,5 +1,5 @@
 # simpleEA
 
-![image](t1.png)
-![image](t2.png)
-![image](t3.png)
+![image](p1.png)
+![image](p2.png)
+![image](p3.png)

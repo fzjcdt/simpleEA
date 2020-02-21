@@ -132,7 +132,6 @@ def main():
     plt.ylabel('best fitness in this generation')
     plt.show()
 
-
     p1 = Population(size=4, generation_num=50)
     p1_max_fitness_in_each_eval = np.array(p1.max_fitness_in_each_eval)
 
